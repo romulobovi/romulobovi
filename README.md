@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá, sou Rômulo, administrador de banco de dados, administrador de redes, analista de segurança e desenvolvedor! 👋
 
 <div align="center">
   <a href="https://github.com/romulobovi">
