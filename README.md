@@ -1,4 +1,4 @@
-### Olá, sou Rômulo, DBA, Administrador de Redes, Analista de Segurança e Software Developer! 👋
+### Olá, sou Rômulo, Analista de Segurança e Software Developer!
 
 <div align="center">
   <a href="https://github.com/romulobovi">
