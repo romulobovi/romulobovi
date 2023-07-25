@@ -1,4 +1,4 @@
-### Olá, sou Rômulo, Analista de Segurança e Software Developer!
+### Hi, I'm Rômulo, IT Specialist and Software Developer!
 
 <div align="center">
   <a href="https://github.com/romulobovi">
